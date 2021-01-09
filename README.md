@@ -2,7 +2,7 @@
 
 Get all CIDR objects from URL, e.g. all [Citrix Files Public Endpoints, formerly ShareFile.](https://support.citrix.com/article/CTX234446)
 
-CIDR are Classless Internet Domain Routing (CIDR) blocks and are explained in more detail here in the [link].(https://devblogs.microsoft.com/premier-developer/understanding-cidr-notation-when-designing-azure-virtual-networks-and-subnets/)
+CIDR are Classless Internet Domain Routing (CIDR) blocks and are explained in more detail here in the [link.](https://devblogs.microsoft.com/premier-developer/understanding-cidr-notation-when-designing-azure-virtual-networks-and-subnets/)
 
 The output file will be created in the source folder. 
 
